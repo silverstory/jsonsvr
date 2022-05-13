@@ -1,6 +1,6 @@
 {
-  "schedule": {
+  "schedules": {
       "id": "0041955",
-      "name": "eigth to five amputa"
-    }
+      "name": "eigth to five amputa",
+    },
 }
